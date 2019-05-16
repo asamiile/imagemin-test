@@ -1,0 +1,2 @@
+# imagemin-test
+Imagemin Test.
