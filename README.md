@@ -10,6 +10,13 @@
 - [pngquant](https://www.npmjs.com/package/imagemin-pngquant)
   - PNGの減色と軽量化
 
+- [gifsicle](https://www.npmjs.com/package/imagemin-gifsicle)
+  - GIFの軽量化
+
+- [svgo](https://www.npmjs.com/package/imagemin-svgo)
+  - SVGの圧縮
+
+
 ## How To Use
 1. [Node.js](https://nodejs.org/ja/)をインストール
 2. `npm install`
