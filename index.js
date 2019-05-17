@@ -5,7 +5,7 @@ const imageminGifsicle = require('imagemin-gifsicle');
 const imageminSvgo = require('imagemin-svgo');
 
 (async () => {
-  const files = await imagemin(['src/*.{jpg,png}'], 'images', {
+  const files = await imagemin(['src/*.{jpg,png,gif,svg}'], 'images', {
     plugins: [
       imageminMozjpeg({ quality: 85 }),
       imageminPngquant([.85, .85]),
