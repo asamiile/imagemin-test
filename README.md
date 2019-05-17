@@ -4,8 +4,8 @@
 - [imagemin](https://www.npmjs.com/package/imagemin)
   - imagemin本体
 
-- [imagemin-jpegtran](https://www.npmjs.com/package/imagemin-jpegtran)
-  - imageminプラグイン
+- [imagemin-mozjpeg](https://www.npmjs.com/package/imagemin-mozjpeg)
+  - Mozilla製JPGエンコーダー
 
 - [pngquant](https://www.npmjs.com/package/imagemin-pngquant)
   - PNGの減色と軽量化
